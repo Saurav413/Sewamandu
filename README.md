@@ -34,7 +34,7 @@ Sewamandu is a web-based platform that connects residents of Kathmandu, Lalitpur
 - **Two-step availability check**: the slot is filtered to available providers up front, then rechecked right before saving — showing "no providers available" if none qualify, or "this provider is already booked" if the chosen one was just taken.
 - Two customers can't book the same provider for the same slot.
 - Clicking a service card on the home page jumps straight into the booking page with that service pre-selected.
-- Booking lifecycle: `pending_provider` → `pending_admin`/`confirmed` → `completed` (or `denied` / `rejected_by_provider` / `rejected_by_admin`).
+- Booking lifecycle: `pending_provider` → `confirmed` → `completed` (or `denied` / `rejected_by_provider`).
 - Providers can mark a confirmed booking as completed or not completed.
 
 ### 5. Reviews & Ratings
@@ -87,7 +87,6 @@ Integrated with Gmail SMTP (via PHPMailer) for:
 
 ## 🧭 Known Limitations / Planned
 - **Login via phone number** — not yet implemented; login is email-based only.
-- **Location field in the booking form** — customers can't yet attach a specific address/location to a booking request.
 - **5-booking commission gate** — the wallet exists, but a provider isn't yet capped at 5 active bookings until commission is paid.
 
 ---

@@ -280,6 +280,11 @@ body {
   opacity: 0.7;
   margin-left: 0.35rem;
 }
+/* Hide native checkbox; selection uses the custom circle (::after) on the right */
+.provider-card .provider-radio,
+.provider-card input[type="checkbox"] {
+  display: none !important;
+}
 .provider-card::after {
   content: "";
   position: absolute;

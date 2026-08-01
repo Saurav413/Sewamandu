@@ -204,7 +204,7 @@ if ($conn) {
       <div class="step-card">
         <div class="step-num"><i class="fas fa-calendar-check"></i></div>
         <h4>Book Appointment</h4>
-        <p>Pick a time that suits you — confirm in a tap.</p>
+        <p>Pick a time that suits you confirm in a tap.</p>
       </div>
       <div class="step-card">
         <div class="step-num"><i class="fas fa-check-circle"></i></div>
@@ -238,7 +238,7 @@ if ($conn) {
 
     <div class="diff-grid stagger">
       <div class="diff-card"><div class="ic"><i class="fas fa-user-check"></i></div><h4>Verified Experts</h4><p>All professionals are thoroughly vetted and background-checked.</p></div>
-      <div class="diff-card"><div class="ic"><i class="fas fa-file-invoice-dollar"></i></div><h4>Transparent Pricing</h4><p>No hidden charges — clear, upfront pricing every time.</p></div>
+      <div class="diff-card"><div class="ic"><i class="fas fa-file-invoice-dollar"></i></div><h4>Transparent Pricing</h4><p>No hidden charges clear, upfront pricing every time.</p></div>
       <div class="diff-card"><div class="ic"><i class="fas fa-shield-alt"></i></div><h4>Quality Guarantee</h4><p>100% satisfaction guaranteed on every service.</p></div>
       <div class="diff-card"><div class="ic"><i class="fas fa-clock"></i></div><h4>24/7 Support</h4><p>Round-the-clock emergency support whenever you need it.</p></div>
       <div class="diff-card"><div class="ic"><i class="fas fa-umbrella"></i></div><h4>Insurance Coverage</h4><p>Full coverage for complete peace of mind.</p></div>

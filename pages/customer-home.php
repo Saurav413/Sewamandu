@@ -152,14 +152,14 @@ if ($conn) {
     <div class="section-head reveal">
       <span class="kicker">At your doorstep</span>
       <h2>Service that reaches every corner of the valley</h2>
-      <p>Fast, reliable home service delivery — right where you live.</p>
+      <p>Fast, reliable home service delivery, right where you live.</p>
     </div>
 
     <div class="expand-stage" data-progress>
       <div class="expand-stage__img"></div>
       <div class="expand-stage__caption">
         <h3>One tap from the help you need</h3>
-        <p>From temple towns to busy streets — our experts are minutes away.</p>
+        <p>From temple towns to busy streets, our experts are minutes away.</p>
       </div>
     </div>
 
@@ -223,7 +223,7 @@ if ($conn) {
       <div class="step-card">
         <div class="step-num"><i class="fas fa-calendar-check"></i></div>
         <h4>Book Appointment</h4>
-        <p>Pick a time that suits you — confirm in a tap.</p>
+        <p>Pick a time that suits you, confirm in a tap.</p>
       </div>
       <div class="step-card">
         <div class="step-num"><i class="fas fa-check-circle"></i></div>
@@ -291,7 +291,7 @@ if ($conn) {
     <div class="cols">
       <div class="footer-col">
         <h4>Sewamandu</h4>
-        <p>Reliable home services in Kathmandu, Lalitpur &amp; Bhaktapur — vetted experts, cinematic ease.</p>
+        <p>Reliable home services in Kathmandu, Lalitpur &amp; Bhaktapur, vetted experts, cinematic ease.</p>
       </div>
       <div class="footer-col">
         <h4>Quick Links</h4>

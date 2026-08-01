@@ -122,7 +122,7 @@ if ($conn) {
     <div class="hero-content">
       <span class="hero-eyebrow">Kathmandu · Lalitpur · Bhaktapur</span>
       <h1>Reliable home services,<br><span class="grad">right at your doorstep</span></h1>
-      <p>Book vetted plumbers, electricians, cleaners and more — in just a few taps. Trusted experts, transparent pricing, cinematic ease.</p>
+      <p>Book vetted plumbers, electricians, cleaners and more, in just a few taps. Trusted experts, transparent pricing, cinematic ease.</p>
       <a href="<?php echo $bookLink; ?>" class="hero-cta">Book a Service <i class="fas fa-arrow-right"></i></a>
     </div>
 
@@ -134,7 +134,7 @@ if ($conn) {
     <div class="section-head reveal">
       <span class="kicker">At your doorstep</span>
       <h2>Service that reaches every corner of the valley</h2>
-      <p>Fast, reliable home service delivery — right where you live.</p>
+      <p>Fast, reliable home service delivery, right where you live.</p>
     </div>
 
     <!-- expand-on-scroll showcase: grows from inset+rounded to full-bleed -->
@@ -142,7 +142,7 @@ if ($conn) {
       <div class="expand-stage__img"></div>
       <div class="expand-stage__caption">
         <h3>One tap from the help you need</h3>
-        <p>From temple towns to busy streets — our experts are minutes away.</p>
+        <p>From temple towns to busy streets, our experts are minutes away.</p>
       </div>
     </div>
 
@@ -272,7 +272,7 @@ if ($conn) {
     <div class="cols">
       <div class="footer-col">
         <h4>Sewamandu</h4>
-        <p>Reliable home services in Kathmandu, Lalitpur &amp; Bhaktapur — vetted experts, cinematic ease.</p>
+        <p>Reliable home services in Kathmandu, Lalitpur &amp; Bhaktapur, vetted experts, cinematic ease.</p>
       </div>
       <div class="footer-col">
         <h4>Quick Links</h4>
@@ -289,8 +289,8 @@ if ($conn) {
       </div>
       <div class="footer-col">
         <h4>Contact Us</h4>
-        <p>Email: officialsewamandu@gmail.com</p>
-        <p>Phone: +977-9800000000</p>
+        <p>Email: sulavadhikari69@gmail.com</p>
+        <p>Phone: +977-9761610717</p>
         <div class="social">
           <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
           <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
